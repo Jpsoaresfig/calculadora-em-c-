@@ -1,2 +1,2 @@
-# calculadora-em-c-
-calculadora que soma subtrai multiplica e divide na linguagem c
+# Calculator_in_C 
+calculator that adds, subtracts, multiplies, and divides in the C language
